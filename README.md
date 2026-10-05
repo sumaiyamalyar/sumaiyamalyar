@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Sumaiya! 👋
 
-<!--
-**sumaiyamalyar/sumaiyamalyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web development and artificial intelligence student building scalable web applications and exploring intelligent software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech & Tools
+* **Languages:** HTML5, CSS3, JavaScript, Python
+* **Frontend & Backend:** React, Node.js, Express, REST APIs
+* **Database & Tools:** Git, GitHub, VS Code
+
+---
+
+### ⚡ What I'm Up To
+* 🔭 Currently working on web development projects & AI integrations
+* 🌱 Deepening my knowledge in full-stack architecture and AI models
+* 📫 How to reach me: Connect with me here on GitHub!
